@@ -1,4 +1,4 @@
-# Unpinned blobs from alioth_global-user 11 RKQ1.200826.002 V12.5.4.0.RKHMIXM release-keys
+# Unpinned blobs from alioth_global-user 11 RKQ1.200826.002 V12.5.6.0.RKHMIXM release-keys
 
 # ACDB
 vendor/etc/acdbdata/Forte/Forte_Bluetooth_cal.acdb
@@ -2545,6 +2545,7 @@ vendor/bin/qmi-framework-tests/qmi_test_mt_client_init_instance
 vendor/bin/DFtool
 vendor/bin/KmInstallKeybox
 vendor/bin/MI_IC
+vendor/bin/MI_RIC
 vendor/bin/PktRspTest
 vendor/bin/SoterProvisioningTool
 vendor/bin/StoreKeybox
@@ -2728,6 +2729,7 @@ vendor/etc/init/init.spdaemon_wait_spunvm.rc
 vendor/etc/init/init.vendor.sensors.rc
 vendor/etc/init/keymasterd.rc
 vendor/etc/init/mi_ic.rc
+vendor/etc/init/mi_ric.rc
 vendor/etc/init/minidump.rc
 vendor/etc/init/mutualex.rc
 vendor/etc/init/qdcmss.rc
