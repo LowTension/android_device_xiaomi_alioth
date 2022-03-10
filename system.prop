@@ -137,7 +137,6 @@ ro.miui.version.code_time=1608480000
 ro.netflix.bsp_rev=Q8250-19134-1
 ro.nfc.port=I2C
 ro.opengles.version=196610
-ro.product.locale=en-GB
 ro.product.mod_device=alioth_global
 ro.product.property_source_order=odm,vendor,product,system_ext,system
 ro.rom.zone=2
